@@ -1,0 +1,36 @@
+.page_list{
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #6C6C6C;
+}
+
+.number_list{
+    display: flex;
+    font-size: 25px;
+    width: 100%;
+}
+
+.number{
+    color: #6C6C6C;
+}
+
+.issue{
+    margin-left: 20px;
+    color: #0066FF;
+}
+
+.article_block{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.author{
+    font-weight: bold;
+}
+
+.article{
+    margin-top: 0;
+    display: flex;
+    width: 100%;
+}
